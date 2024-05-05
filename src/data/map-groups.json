@@ -2233,7 +2233,7 @@
           },
           {
             "mouse": "key_master",
-            "subcategory": "royal"
+            "subcategory": "lavish"
           },
           {
             "mouse": "wrathful_warden",
@@ -2271,7 +2271,7 @@
             "subcategory": "lavish"
           },
           {
-            "mouse": "Chafed Cellis",
+            "mouse": "chafed_cellis",
             "subcategory": "lavish"
           },
           {
@@ -2330,7 +2330,7 @@
         "name": "Beanster"
       },
       {
-        "id": "Lavish",
+        "id": "lavish",
         "name": "Lavish Beanster"
       },
       {
